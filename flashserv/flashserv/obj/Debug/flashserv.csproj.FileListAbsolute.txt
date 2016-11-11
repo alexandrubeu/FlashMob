@@ -1,0 +1,126 @@
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\flashserv.dll.config
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\flashserv.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\flashserv.pdb
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Antlr3.Runtime.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\EntityFramework.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\EntityFramework.SqlServer.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Newtonsoft.Json.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Owin.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Net.Http.Formatting.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Helpers.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Http.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Http.Owin.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Http.WebHost.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Mvc.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Optimization.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Razor.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.WebPages.Deployment.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.WebPages.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.WebPages.Razor.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\WebGrease.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Newtonsoft.Json.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Net.Http.Formatting.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Helpers.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Http.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Http.WebHost.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Mvc.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Optimization.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Razor.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.WebPages.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.WebPages.Deployment.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.WebPages.Razor.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Antlr3.Runtime.pdb
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\EntityFramework.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\EntityFramework.SqlServer.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\bin\System.Web.Http.Owin.xml
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\obj\Debug\flashserv.csprojResolveAssemblyReference.cache
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\obj\Debug\flashserv.dll
+c:\users\mihai.radulescu\documents\visual studio 2013\Projects\flashserv\flashserv\obj\Debug\flashserv.pdb
+E:\megahack\FlashMob\flashserv\flashserv\bin\flashserv.dll.config
+E:\megahack\FlashMob\flashserv\flashserv\bin\flashserv.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\flashserv.pdb
+E:\megahack\FlashMob\flashserv\flashserv\bin\Antlr3.Runtime.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\EntityFramework.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\EntityFramework.SqlServer.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Core.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Cookies.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Facebook.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Google.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.OAuth.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Twitter.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Web.Infrastructure.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Newtonsoft.Json.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Owin.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Net.Http.Formatting.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Helpers.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Http.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Http.Owin.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Http.WebHost.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Mvc.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Optimization.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Razor.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.WebPages.Deployment.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.WebPages.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.WebPages.Razor.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\WebGrease.dll
+E:\megahack\FlashMob\flashserv\flashserv\bin\Newtonsoft.Json.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Net.Http.Formatting.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Helpers.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Http.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Http.WebHost.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Mvc.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Optimization.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Razor.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.WebPages.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.WebPages.Deployment.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.WebPages.Razor.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Antlr3.Runtime.pdb
+E:\megahack\FlashMob\flashserv\flashserv\bin\EntityFramework.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\EntityFramework.SqlServer.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Core.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Facebook.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Cookies.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.OAuth.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Google.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.Twitter.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\megahack\FlashMob\flashserv\flashserv\bin\System.Web.Http.Owin.xml
+E:\megahack\FlashMob\flashserv\flashserv\obj\Debug\flashserv.csprojResolveAssemblyReference.cache
+E:\megahack\FlashMob\flashserv\flashserv\obj\Debug\flashserv.dll
+E:\megahack\FlashMob\flashserv\flashserv\obj\Debug\flashserv.pdb
